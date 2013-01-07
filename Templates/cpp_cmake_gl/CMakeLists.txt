@@ -10,7 +10,7 @@ set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
 # Sources
-set(<?!-PROJECT_NAME-!?>_SOURCES "<?!-PROJECT_NAME-!?>.cpp")
+set(<?!-PROJECT_NAME-!?>_SOURCES "src/<?!-PROJECT_NAME-!?>.cpp")
 
 # Output
 add_executable(<?!-PROJECT_NAME-!?> ${<?!-PROJECT_NAME-!?>_SOURCES})
