@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GITHUB_USER="arcamugapy"
+GITHUB_USER="codeinclined"
 SCRIPT_ROOT="$(pwd)/$(dirname $0)"
 PROJECT_PATH="${1}/${2}"
 
